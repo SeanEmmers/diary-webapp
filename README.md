@@ -1,6 +1,6 @@
-## User Stories
+# User Stories
 
-# Must Have
+## Must Have
 
 ```
 
@@ -22,7 +22,7 @@ I want to click on a title to see the full Diary Entry
 
 ```
 
-# Should Have
+## Should Have
 
 ```
 As a user
@@ -43,12 +43,12 @@ I want to see associated Comments when viewing a Diary Entry
 
 ```
 
-## Plan
+# Plan
 
-# CRC Card
+## CRC Card
 
 [screenshot] (https://imgur.com/a/9FVqJlo)
 
-# Database Structure
+## Database Structure
 
 [screenshot] (https://imgur.com/a/XrVdVJp)
